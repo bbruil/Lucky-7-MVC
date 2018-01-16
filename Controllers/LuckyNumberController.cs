@@ -43,6 +43,7 @@ namespace Lucky_7_MVC.Controllers
         public ActionResult Create()
         {
             return View();
+      
         }
 
         // POST: LuckyNumber/Create
